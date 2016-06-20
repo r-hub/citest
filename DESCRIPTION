@@ -1,0 +1,13 @@
+Package: citest
+Title: Test Package for the 'r-hub' 'CI'
+Version: 1.0.0
+Author: Gábor Csárdi
+Maintainer: Gábor Csárdi <csardi.gabor@gmail.com>
+Description: A simple test package and 'GitHub' repository to test the 'r-hub' 'CI' service.
+License: MIT + file LICENSE
+LazyData: true
+URL: https://github.com/r-hub/citest
+BugReports: https://github.com/r-hub/citest/issues
+RoxygenNote: 5.0.1
+Suggests: 
+    testthat
