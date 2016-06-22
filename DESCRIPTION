@@ -9,6 +9,8 @@ LazyData: true
 URL: https://github.com/r-hub/citest
 BugReports: https://github.com/r-hub/citest/issues
 RoxygenNote: 5.0.1
+Imports:
+     nonexistingpackage
 Suggests: 
     testthat
 Encoding: UTF-8
