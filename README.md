@@ -23,4 +23,4 @@ library(citest)
 
 ## License
 
-MIT + file LICENSE © 
+MIT + file LICENSE © R Consortium
