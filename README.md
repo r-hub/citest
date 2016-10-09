@@ -12,7 +12,7 @@ A simple test package and 'GitHub' repository to test the 'r-hub' 'CI' service.
 ## Installation
 
 ```r
-devtools::install_github("/citest")
+devtools::install_github("r-hub/citest")
 ```
 
 ## Usage
